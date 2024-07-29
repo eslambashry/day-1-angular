@@ -1,0 +1,29 @@
+/* Basic styling for the portfolio section */
+.portfolio-section {
+    background-color: #f8f9fa;
+  }
+  
+  .card {
+    border: none;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.1);
+  }
+  
+  .card-img-top {
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .card-body {
+    padding: 1.5rem;
+  }
+  
+  .card-footer {
+    background-color: #fff;
+    border-top: 1px solid #e9ecef;
+    padding: 1rem;
+    text-align: center;
+  }
+  

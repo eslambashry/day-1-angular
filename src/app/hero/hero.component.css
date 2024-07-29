@@ -1,0 +1,18 @@
+.hero {
+    background-image: url('../../../public/pexels-mixu-513809-1323206.jpg'); /* Make sure the image is in the assets folder */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+  }
+  
+  .hero-content {
+    background: rgba(0, 0, 0, 0.5); /* Optional: for background transparency */
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
